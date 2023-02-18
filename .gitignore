@@ -1,0 +1,4 @@
+.idea/
+.venv/
+.docker_secrets/*
+*.pyc
